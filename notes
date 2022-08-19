@@ -1,0 +1,21 @@
+
+UNIT 3
+ToTensor() - https://pytorch.org/vision/stable/generated/torchvision.transforms.ToTensor.html
+squeeze() - https://numpy.org/doc/stable/reference/generated/numpy.squeeze.html
+FashionMNIST - https://pytorch.org/vision/stable/generated/torchvision.datasets.FashionMNIST.html
+Lambda - https://www.w3schools.com/python/python_lambda.asp
+TORCHVISION.TRANSFORMS - https://pytorch.org/vision/0.11/transforms.html?highlight=resize
+
+
+UNIT 4
+torch.nn - https://pytorch.org/docs/stable/nn.html
+nn.module - https://pytorch.org/docs/stable/generated/torch.nn.Module.html
+Relu - https://pytorch.org/docs/stable/generated/torch.nn.ReLU.html
+flatten() - https://www.w3resource.com/numpy/manipulation/ndarray-flatten.php#:~:text=The%20flatten()%20function%20is,array%20collapsed%20into%20one%20dimension.&text='C'%20means%20to%20flatten%20in,%2C%20row%2Dmajor%20order%20otherwise.
+sequential() - https://pytorch.org/docs/stable/generated/torch.nn.Sequential.html
+
+
+
+
+torchvision - conda install -c pytorch torchvision
+onnxruntime - conda install -c conda-forge onnxruntime
